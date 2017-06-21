@@ -1,0 +1,29 @@
+
+<niveau>
+    <nb_cases>10</nb_cases>
+    <nb_coups>2</nb_coups>
+    <ligne>3</ligne>
+    <colonne>5</colonne>
+
+    <ligne>4</ligne>
+    <colonne>4</colonne>
+
+    <ligne>4</ligne>
+    <colonne>6</colonne>
+
+    <ligne>5</ligne>
+    <colonne>2</colonne>
+
+    <ligne>5</ligne>
+    <colonne>5</colonne>
+
+    <ligne>6</ligne>
+    <colonne>1</colonne>
+
+    <ligne>6</ligne>
+    <colonne>3</colonne>
+
+    <ligne>7</ligne>
+    <colonne>2</colonne>
+
+</niveau>
